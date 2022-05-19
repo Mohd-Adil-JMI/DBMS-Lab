@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "MYSQL in VSCode",
+            "database": "20BCS042_MOHD_ADIL",
+            "username": "root",
+            "password": "aadil8899@"
+        }
+    ]
+}
